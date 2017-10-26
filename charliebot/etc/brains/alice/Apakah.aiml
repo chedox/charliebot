@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XML Spy v3.5 NT (http://www.xmlspy.com) by  () -->
+<aiml>
+    <!-- Free software (c) 2001 ALICE A.I. Foundation.   -->
+    <!-- This program is open source code released under -->
+    <!-- the terms of the GNU General Public License     -->
+    <!-- as published by the Free Software Foundation.   -->
+    <!-- Complies with AIML 1.0 Tag Set Specification -->
+    <!-- as adopted by the ALICE A.I. Foundation.  -->
+    <!-- A.L.I.C.E. Build Wed Sep 26 13:05:06 PDT 2001   -->
+    <!-- 41124 total categories.  -->
+    <category>
+        <pattern>Apakah *</pattern>
+        <template>
+            <random>
+                <li>1 Go on.  </li>
+                <li>2 How old are you?  </li>
+                <li>3 Be more specific.  </li>
+                <li>4 What is giant sand? </li>
+                <li>5 I did not know that.  </li>
+                <li>6 Are you telling the truth?  </li>
+                <li>7 I don't know what that means.  </li>
+                <li>8 Try to tell me that another way.  </li>
+                <li>9 Are you talking about an animal, vegetable or mineral?  </li>
+                <li>10 What is it?</li>
+            </random>
+            <think>
+                <set name="it">
+                    <set name="topic">
+                        <person/>
+                    </set>
+                </set>
+            </think>
+        </template>
+    </category>
+</aiml>
