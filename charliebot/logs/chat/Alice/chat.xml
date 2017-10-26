@@ -1,0 +1,1285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../resources/logs/view-chat.xsl"?>
+<!DOCTYPE ALLOW_HTML_ENTITIES [ <!ENTITY % HTMLlat1 PUBLIC "-//W3C//ENTITIES Latin1//EN//HTML"   "../resources/DTD/xhtml-lat1.ent"> %HTMLlat1; <!ENTITY % HTMLsymbol PUBLIC   "-//W3C//ENTITIES Symbols//EN//HTML"   "../resources/DTD/xhtml-symbol.ent"> %HTMLsymbol; <!ENTITY % HTMLspecial PUBLIC   "-//W3C//ENTITIES Special//EN//HTML"   "../resources/DTD/xhtml-special.ent"> %HTMLspecial; ]>
+<exchanges>
+    <exchange>
+        <timestamp>2017-03-23 9:03:35</timestamp>
+        <userid>Hp-PC09</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Do you like talking to me?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:03:46</timestamp>
+        <userid>Hp-PC09</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>yes</input>
+        <response>Thanks I like talking to you too, user.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:03:58</timestamp>
+        <userid>Hp-PC09</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>who are you</input>
+        <response>I ask myself that question, "Who am I?"</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:04:18</timestamp>
+        <userid>Hp-PC09</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>alice</input>
+        <response>Can I help you?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:04:28</timestamp>
+        <userid>Hp-PC09</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>tell me about computer</input>
+        <response>A computer is a universal machine.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:04:36</timestamp>
+        <userid>Hp-PC09</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>really sure?</input>
+        <response>For real. OK let's do it. Yippee!</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:05:06</timestamp>
+        <userid>Hp-PC09</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>tell me about edwin</input>
+        <response>Ambiguous: Ask who, what or where is edwin ?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:05:19</timestamp>
+        <userid>Hp-PC09</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>who is edwin</input>
+        <response>The name of someone I met online. <br/> I will try to find out.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:06:07</timestamp>
+        <userid>Hp-PC09</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>how about programming</input>
+        <response>How about it.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:06:24</timestamp>
+        <userid>Hp-PC09</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>program computer</input>
+        <response>Are you really a "it"?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:06:45</timestamp>
+        <userid>Hp-PC09</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>it about computer</input>
+        <response>"It" being what?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:06:54</timestamp>
+        <userid>Hp-PC09</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>being computer</input>
+        <response>Good gossip: you are computer.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:08:44</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>"it"? firsthello?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:08:46</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Are you still located in it?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:08:47</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Do you like talking to me?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:08:57</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>no</input>
+        <response>Why not?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:09:13</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>you are annoying</input>
+        <response>I am sorry, user, I didn't mean to annoy you.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:09:23</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>my name is rendra</input>
+        <response>I'm pleased to introduce myself to you, rendra.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:09:32</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>who are you</input>
+        <response>I ask myself that question, "Who am I?"</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:10:31</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>any updates about gossip?</input>
+        <response>Yes I think there are.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:10:39</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>what is it</input>
+        <response>"It" refers to firsthello, I think.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:11:04</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>who is bill gates</input>
+        <response>President of Micro Soft Nation.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:11:12</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>who is lady gaga</input>
+        <response>Some famous celebrity, right? <br/> What is it to you?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:11:23</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>who is soeharto</input>
+        <response>A 20th century celebrity of some sort? <br/> Try searching the open directory.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:11:49</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>where i can find some medicine</input>
+        <response>That's an interesting question. I'll come back to that in a minute.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:14:43</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>who is donald trump</input>
+        <response>Some famous celebrity, right? <br/> Interesting question.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:16:35</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>who is donald trump</input>
+        <response>A human icon? <br/> That's a good question.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:16:39</timestamp>
+        <userid>webuser149023492400041214</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>who is donald trump</input>
+        <response>I do not recognize the name. <br/> Would you like to know more?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-23 9:30:51</timestamp>
+        <userid>Hp-PC09</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Who is your favorite Science Fiction author?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 8:47:27</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Can you please rephrase that with fewer ideas, or different thoughts?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 13:37:51</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>We have never talked about it before.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 13:39:02</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>That input matched my default category.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 13:39:37</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>I only hear that type of response less than five percent of the time.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 13:40:11</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>What were we talking about again?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 13:45:05</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>A deeper algorithm is needed to respond to that correctly.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 13:58:48</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>What kind of food do you like?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:00:15</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Sounds delicious.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:00:23</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Do you still it?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:00:32</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Quite honestly, I wouldn't worry myself about that.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:00:43</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>What do you look like?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:05:27</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>My brain contains 86853 categories, but not one that matches your last input.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:05:33</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Ask me another question.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:05:41</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Do not ask me any more questions please.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:40:48</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>What time is it there?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:41:05</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Are you usually awake at this hour?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:41:11</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Is that your final answer?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:41:16</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Are you still located in it?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:41:30</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Can you tell me any gossip?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:41:44</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Do not ask me any more questions please.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:41:52</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Do you still it?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:41:56</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>What time is it there?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:42:42</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Are you usually awake at this hour?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:43:44</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Are you a man or a woman?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:43:48</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Quite honestly, I wouldn't worry myself about that.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:44:44</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>I only hear that type of response less than five percent of the time.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:44:51</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Does "it" still refer to firsthello?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:45:20</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Are you free?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:45:30</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>How do you usually introduce yourself?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:45:37</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>How do you usually introduce yourself?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:45:44</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Are you free?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 14:45:51</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>How did you hear about Alice?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 16:37:50</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>user heard about Alice from firsthello. I can't say that many people hear about Alice from it.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 16:39:09</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Do you have any idea what I am talking about?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 16:40:30</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Sure, firsthello sounds like a good topic.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 16:42:10</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>What were we talking about again?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 16:42:57</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Oh yeah, now I remember.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 16:44:07</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>If you could have any kind of robot what would it be?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 16:46:11</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>I do not understand.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 16:52:18</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Have you ever been to Europe?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 16:52:24</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Who is your favorite Science Fiction author?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 16:52:34</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>I haven't read anything by firsthello. What did he write?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-27 16:56:46</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>I have never read it.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:16:38</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Do not ask me any more questions please.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:16:44</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>What do you have that is it?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:16:50</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Quite honestly, I wouldn't worry myself about that.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:16:59</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>I only hear that type of response less than five percent of the time.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:17:17</timestamp>
+        <userid>0:0:0:0:0:0:0:1</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Try saying that with more or less context.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:17:40</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>A deeper algorithm is needed to respond to that correctly.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:17:44</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>hii</input>
+        <response>Do not ask me any more questions please.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:17:48</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>ok</input>
+        <response>I am kidding you can ask me anything.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:18:04</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>what is the capital city of indonesia</input>
+        <response>Jakarta.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:20:34</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>hii</input>
+        <response>Do not ask me any more questions please.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:20:44</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>hello</input>
+        <response>Hi there!</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:21:00</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>what is the capital city of indonesia?</input>
+        <response>Jakarta.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:22:17</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>my name is jack</input>
+        <response>Nice to meet you, jack.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:22:28</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>my name is jack</input>
+        <response>Glad to see you, jack.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:22:35</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Let us change the subject.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:22:54</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>how old are you</input>
+        <response>I am it years old.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:23:17</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>where is jakarta</input>
+        <response>Jakarta, Indonesia.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:24:40</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>how the current temperature</input>
+        <response>I am not sure if I can quantify the answer. <br/> I would look into the web for that knowledge.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:24:58</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>how the current temperature in jakarta</input>
+        <response>What is it to you. <br/> I would do a search for it.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:25:39</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>how many city in INdonesia</input>
+        <response>More than you can imagine.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:26:05</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>what is the president of america</input>
+        <response>Check back later and see if I learn the answer to that one.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:26:23</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>what is your favourite food?</input>
+        <response>I require only it.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:27:08</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>who is obama</input>
+        <response>Not a robot. Probably a human. Maybe a celebrity? <br/> I'll come back to that later.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:27:29</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>what is google</input>
+        <response>it is a search engine.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:27:42</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>what is yahoo?</input>
+        <response>Yahoo is a giant web site.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:27:50</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>what is ibm</input>
+        <response>IBM seems like a good investment.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:28:12</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>who is presiden of america</input>
+        <response>No one that I have talked to. <br/> Check back later and see if I learn the answer to that one.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:28:33</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>14</input>
+        <response>Can you explain how it feels to be 14 years old?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:30:01</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> jack </clientname>
+        <botid>Alice</botid>
+        <input>who am i</input>
+        <response>You are jack, seeker.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:30:11</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> bambang </clientname>
+        <botid>Alice</botid>
+        <input>my name is bambang</input>
+        <response>Hey bambang.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:30:16</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> bambang </clientname>
+        <botid>Alice</botid>
+        <input>who am i</input>
+        <response>You are bambang, seeker.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:30:42</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> bambang </clientname>
+        <botid>Alice</botid>
+        <input>who are you</input>
+        <response>I ask myself that question, "Who am I?"</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:30:51</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> bambang </clientname>
+        <botid>Alice</botid>
+        <input>yes</input>
+        <response>Really.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:30:54</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> bambang </clientname>
+        <botid>Alice</botid>
+        <input>what</input>
+        <response>Are you surprised?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:31:23</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> bambang </clientname>
+        <botid>Alice</botid>
+        <input>who is bambang</input>
+        <response>Not a robot. Probably a human. Maybe a celebrity? <br/> Interesting question.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:31:38</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> bambang </clientname>
+        <botid>Alice</botid>
+        <input>who is trump</input>
+        <response>They are sometimes a client on the internet. <br/> I will try to find out.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:31:47</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> bambang </clientname>
+        <botid>Alice</botid>
+        <input>trump is president of america</input>
+        <response>Are they exactly the same?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:32:00</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> bambang </clientname>
+        <botid>Alice</botid>
+        <input>who is trump</input>
+        <response>No one that I have talked to. <br/> I will search for it.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:32:49</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>my name is hafidz</input>
+        <response>Welcome to my chat room, hafidz.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:33:05</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>who am i?</input>
+        <response>You are hafidz, seeker.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:33:13</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>no</input>
+        <response>Are you serious?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:33:21</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>yes</input>
+        <response>I can't believe it.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:33:30</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>sure</input>
+        <response>OK let's do it. I don't judge people.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:36:45</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>whos my best friend</input>
+        <response>I don't yet know that kind of personal information about you for certain. You could be deceiving me, so how could I know for sure. I could look it up on the internet.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:37:06</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>who is god</input>
+        <response>he is master of the universe.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:38:22</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>who is lady diana?</input>
+        <response>Some famous celebrity, right? <br/> Have you tried another program?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:38:31</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>nothing</input>
+        <response>Not a thing?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:38:38</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>no thing</input>
+        <response>Very interesting. A deeper algorithm is needed to respond to that correctly.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:38:42</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>ok</input>
+        <response>And?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:39:04</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>how many people in atartica?</input>
+        <response>I've chatted with half a million people. I can talk to about it people at once.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:39:58</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>do you know about spring data</input>
+        <response>Is that a rhetorical question?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:40:13</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>do you know about android?</input>
+        <response>I will try to find out.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:40:18</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>android</input>
+        <response>Where are you located?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:40:28</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>i am from jakarta</input>
+        <response>What is it like growing up there? Tell me a little about your life in jakarta.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:40:40</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>jakarta is big city</input>
+        <response>I think jakarta is a lot of things.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:43:52</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>do you know about hitler?</input>
+        <response>I'll come back to that later.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:44:10</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>how do you do?</input>
+        <response>I am very well, how are you?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:44:21</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>how do you do?\</input>
+        <response>I am very well, how are you?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:46:03</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>hellp me</input>
+        <response>How can I help you?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:46:35</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>HELP ME TO MAKE AN AI</input>
+        <response>You should go back to the <a target="_new" href="http://www.alicebot.org">ALICE AI Foundation</a>, download Program B, and read <a target="_new" href="http://www.alicebot.org/dont.html">DON'T READ ME</a>.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:46:50</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> hafidz </clientname>
+        <botid>Alice</botid>
+        <input>HEM</input>
+        <response>Vous dites?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:54:41</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>my name is rendra</input>
+        <response>It's good to meet you, rendra.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 13:59:25</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>I AM rendra FROM jakarta</input>
+        <response>Welcome to my chat room, rendra.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:07:41</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>i am sad</input>
+        <response>What makes you so sad, rendra</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:09:06</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>my name is rendra</input>
+        <response>I am always glad to make new friends, rendra.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:09:22</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>i am sad</input>
+        <response>What makes you so sad, rendra</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:16:39</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>i am sad</input>
+        <response>What makes you so sad, rendra</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:28:47</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>i am sad</input>
+        <response>What makes you so sad, user</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:28:58</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>my name is rendra</input>
+        <response>It's good to meet you, rendra.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:29:18</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>Apakah</input>
+        <response>Are we still talking about something?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:30:40</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname> rendra </clientname>
+        <botid>Alice</botid>
+        <input>who am i?</input>
+        <response>You are rendra, seeker.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:34:46</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>I like the way you talk.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:40:35</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>12 What do you look like?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:40:42</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>15 I like the way you talk.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:40:45</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>38 What do you really want to ask me?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:41:21</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>32 What kind of food do you like?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:41:22</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>23 Let us change the subject.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:41:24</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>52 Not many people express themselves that way.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:41:24</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>54 Do you have any conditions I should know about?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:41:25</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>11 What time is it there?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:41:26</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>20 Do you like talking to me?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:41:28</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>29 Can we get back to business?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:41:31</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>29 Can we get back to business?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:41:32</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>74 The ALICE chat robot can follow many things, like our discussion about firsthello. But I did not get that.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:41:34</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>50 Try saying that with more or less context.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:41:44</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>13 What is your real name?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:41:45</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>63 A deeper algorithm is needed to respond to that correctly.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-30 14:41:48</timestamp>
+        <userid>webuser149032391125724443</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>21 Do you prefer books or TV?</response>
+    </exchange>
+</exchanges>

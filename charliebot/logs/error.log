@@ -1,0 +1,16 @@
+./logs/error.log[2017-03-27 14:27:46] Cannot reload startup file.
+./logs/error.log[2017-03-27 14:32:32] "C:\Project\charliebot\etc\conf\brains\alice" is not a valid directory path!
+./logs/error.log[2017-03-27 14:32:32] Exiting abnormally due to user error.
+./logs/error.log[2017-03-27 14:34:13] "C:\Project\charliebot\etc\conf\brains\alice" is not a valid directory path!
+./logs/error.log[2017-03-27 14:34:13] Exiting abnormally due to user error.
+./logs/error.log[2017-03-27 14:39:58] "C:\Project\charliebot\etc\conf\brains\alice" is not a valid directory path!
+./logs/error.log[2017-03-27 14:39:58] Exiting abnormally due to user error.
+./logs/error.log[2017-03-30 14:28:34] Aborting category:
+./logs/error.log[2017-03-30 14:28:34] Not an AIML pattern: "Apakah *" - Characters with case mappings must be uppercase.
+./logs/error.log[2017-03-30 14:28:34]   (Category ends line 35, "C:\Project\charliebot\etc\conf\..\brains\alice\\Apakah.aiml").
+./logs/error.log[2017-03-30 14:34:30] Aborting category:
+./logs/error.log[2017-03-30 14:34:30] Not an AIML pattern: "Apakah *" - Characters with case mappings must be uppercase.
+./logs/error.log[2017-03-30 14:34:30]   (Category ends line 35, "C:\Project\charliebot\etc\conf\..\brains\alice\\Apakah.aiml").
+./logs/error.log[2017-03-30 14:40:19] Aborting category:
+./logs/error.log[2017-03-30 14:40:19] Not an AIML pattern: "Apakah *" - Characters with case mappings must be uppercase.
+./logs/error.log[2017-03-30 14:40:19]   (Category ends line 35, "C:\Project\charliebot\etc\conf\..\brains\alice\\Apakah.aiml").
